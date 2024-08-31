@@ -1,0 +1,777 @@
+{
+    "HeaderData": [
+        {
+            "name": "الرئيسية",
+            "href": "/home"
+        },
+        {
+            "name": "الأطباء",
+            "href": "/doctors"
+        },
+        {
+            "name": "الخدمات",
+            "href": "/services"
+        },
+        {
+            "name": "اتصل بنا",
+            "href": "/contact"
+        },
+        {
+            "name": "حول",
+            "href": "/about"
+        }
+    ],
+    "bannerText": {
+        "title": "أفضل عيادة طبية",
+        "subtitleColor": "نقدم الصحة",
+        "subtitle": "لكل العائلة..."
+    },
+    "serviceHeader": {
+        "title": "خدمات طبية شاملة",
+        "description": "عاية متخصصة وعلاجات متقدمة لتلبية جميع احتياجاتك"
+    },
+    "serviceCards": [
+        {
+            "title": "العلاج الطبي",
+            "description": "علاجات شاملة لمجموعة واسعة من الحالات، مما يضمن الرعاية والتعافي الأمثل.",
+            "image": "../../public/images/medical record.png"
+        },
+        {
+            "title": "المساعدة الطارئة",
+            "description": "رعاية فورية ومنقذة للحياة والاستجابة السريعة للحالات الطبية العاجلة، متاحة على مدار الساعة طوال أيام الأسبوع.",
+            "image": "../../public/images/ambulance.png"
+        },
+        {
+            "title": "أطباء مؤهلون",
+            "description": "أطباء خبراء يتمتعون بخبرة واسعة في تقديم التشخيص الدقيق والرعاية الشخصية.",
+            "image": "../../public/images/doctor.png"
+        },
+        {
+            "title": "المهنيون الطبيون",
+            "description": "######################################",
+            "image": "../../public/images/hospital.png"
+        }
+    ],
+    "departmentHeader": {
+        "title": "اقسام المستشفى",
+        "description": "رعاية متخصصة عبر مجموعة من التخصصات الطبية"
+    },
+    "departmentGrid": {
+        "boxOne": {
+            "title": "العيادات الأستشارية ",
+            "description": "Proced arrain manu produc rather conve quvat mantan this conven multscplinari testin motin was procedur aamng proced arrain manu produc rather conve quvat mantan this convenmultscplinari testiners motin was procedur arraming",
+            "image": "../../public/images/landing (1).jpg"
+        },
+        "boxTwo": {
+            "title": "الصيدلية",
+            "description": "Cabor levera then andin the Qualit bwdh then covae thm Uabor evera then andin meqe Any value cordin",
+            "image": "../../public/images/pharmacy.jpg"
+        },
+        "boxThree": {
+            "title": "المختبر",
+            "description": "Cabor levera then andin the Qualit bwdh then covae thm Uabor evera then andin meqe Any value cordin"
+        },
+        "boxFour": {
+            "title": "الخدج",
+            "description": "Cabor levera then andin the Qualit bwdh then covae thm Uabor evera then andin meqe Any value cordin",
+            "image": "../../public/images/Intensivecare.jpg"
+        },
+        "boxFive": {
+            "title": "العناية المركزة",
+            "description": "Cabor levera then andin the Qualit bwdh then covae thm Uabor evera then andin meqe Any value cordin",
+            "image": "../../public/images/Intensivecare.jpg"
+        },
+        "boxSix": {
+            "title": "العمليات",
+            "description": "Cabor levera then andin the Qualit bwdh then covae thm Uabor evera then andin meqe Any value cordin",
+            "image": "../../public/images/Op.jpg"
+        }
+    },
+    "departmentPage": [
+        {
+            "id": 1,
+            "title": "صالة العمليات",
+            "description": "تحتوي صالة العمليات على ستة صالات حديثة ومجهزة بأحدث الاجهزة والادوات واجهزة الجراحة المنظارية بالاضافة الى غرفة افاقة وتدار بنخبة من اطباء الاختصاص والكوادر المساندة وتعمل على مدار 24 ساعة  ",
+            "image": "../../public/images/Op.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"الطابق الخامس",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "الطوارئ",
+            "description": "يتكون قسم الطوارئ من ثمانية اسرة , وكادر تمريضي متميز, تستقبل حالات ( النسائية ,الاطفال , الباطنية , القلبية , وامراض جراحة الكلية والمسالك البولية , الجراحة العامة ) وتعمل على مدار 24 ساعة ",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"الطابق الارضي",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "المختبرات للتحليلات المرضية",
+            "description": "يعد المختبر من اهم الأقسام يوفر جميع أنواع الفحوصات بأجهزة وتقنيات حديثة ويعمل على مدار 24 ساعة ، كما يتوفر لدينا جهاز تقنية المقاطع المثلجة frozen section technical وتتم ظهور نتيجة الفحص النسيجي فترة 15 الى 20 دقيقة في صالة العمليات",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"الطابق السفلي",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "قسم التصوير الطبي التشخيصي",
+            "description": "يقدم قسم التصوير الطبي التشخيصي مجموعة متكاملة من الخدمات التشخيصية لضمان تقديم أفضل رعاية صحية",
+            "devices": [
+                {
+                    "name": "المفراس الحلزوني (CT)",
+                    "details": "يتميز قسم المفراس الحلزوني (CT) باستخدام أحدث تقنيات التصوير بالأشعة المقطعية لتوفير صور دقيقة وعالية الجودة للأعضاء الداخلية للجسم. يُستخدم هذا الجهاز لتشخيص مجموعة متنوعة من الحالات الطبية، بما في ذلك الأمراض السرطانية، الإصابات، والاضطرابات الداخلية."
+                },
+                {
+                    "name": "الأشعة",
+                    "details": "يقدم قسم الأشعة خدمات تصوير بالأشعة السينية لتشخيص الحالات الطبية من خلال توفير صور واضحة للعظام والأنسجة الداخلية. يتم استخدام هذه التقنية بشكل واسع للكشف عن الكسور، الالتهابات، وأي تشوهات أخرى قد تكون موجودة"
+                },
+                {
+                    "name": "السونار (Ultrasound)",
+                    "details": "يشمل قسم السونار استخدام جهاز الموجات فوق الصوتية لتوفير تصوير دقيق للأعضاء الداخلية والأنسجة الرخوة. تعتبر هذه التقنية غير جراحية وآمنة، وهي مفيدة بشكل خاص في متابعة الحمل، تشخيص أمراض القلب، وتحليل حالات الجهاز الهضمي"
+                },
+                {
+                    "name": "جهاز الأشعة المتنقل",
+                    "details": "يتوفر لدينا جهاز الأشعة المتنقل لتقديم خدمات التصوير في مواقع مختلفة داخل المستشفى أو العيادة. يسهل هذا الجهاز إجراء التصوير للمرضى الذين يصعب نقلهم إلى قسم الأشعة، مما يعزز الراحة ويوفر الوقت"
+                }
+            ],
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"الطابق السفلي",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "العيادات الإستشارية",
+            "description": "تتوفر مجموعة من العيادات الاستشارية بمختلف الاختصاصات منها (النسائية والتوليد , واختصاص جراحة عامة بالجراحة المنظارية ,  اختصاص الامراض الجلدية والتناسلية والعقم وجراحة الجلد التجميلية والليزر , جراحة وتنظير المسالك البولية والعقم , وطب واجراحة الفم والاسنان , وطب الاطفال ,اختصاص امراض المفاصل والروماتيزم والالم الفقرات والشلل , استشاري امراض القلب والباطنية , اختصاص الجراحة العامة والجراحة المنظارية وجراحة الثدي والغدد والجهاز الهضمي ,جراحة العظام والكسور",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"الطابق السفلي والارضي والاول",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "العناية المركزة",
+            "description": " تحتوي وحدة العناية على 5 اسرة مجهزة بأحدث الانظمة والاجهزة وتدار من قبل نخبة من اطباء الاختصاص والكوادر الطبية والساندة المميزة وتعمل على مدار 24 ساعة ",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"الطابق الرابع",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "صالة الولادة الطبيعية",
+            "description": "تحتوي صالة الولادة الطبيعية على غرفتين ولادة  مجهزة بأحدث الاسرة للولادة الطبيعية وتحتوي ايضا على حاضنة  مجهزة بأحدث الاجهزة  وتدار بأشراف طبيبة متخصصة  بالنسائية والتوليد وكادر تمريضي مميز وقابلة مجازة  وتعمل على مدار 24 ساعة ",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"الطابق الخامس",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "الخدج",
+            "description": "تتكون وحدة الخدج من ثلاثة حاضنات خدج وكبسولة واحدة وتدار من قبل كادر متميز من اطباء اطفال وكادر تمريضي متمرس , وتعمل على مدار 24 ساعة ",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"الطابق الثاني",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "الصيدلية",
+            "description": "توفر جميع انواع الادوية والمستلزمات الطبية وتعمل على مدار 24 ساعة ",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"الطابق الارضي",
+            "images": [
+                "../../public/images/landing (1).jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "الغرف",
+            "description": "تتميز غرف الرقود لدينا بخدمات فندقية فاخرة ومريحة، حيث تم تجهيزها بأحدث الأسرة والمرافق لضمان راحة المرضى. توفر الغرف بيئة هادئة ومريحة مع اهتمام دقيق بالتفاصيل، مما يعزز تجربة الإقامة",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"الطابق الاول والثاني والثالث والرابع",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "المطعم",
+            "description": "تتوفر صالة مطعم لكافة الكوادر والمراجعين مجهزة بالكامل وبأدارة طباخة ماهرة ",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"الطابق السادس",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        }
+    ],
+    "doctorsHeader": {
+        "title": "تعرف على أطبائنا",
+        "description": "أطباء محترفون متعددون"
+    },
+    "DoctorsSection": [
+        {
+            "id": 1,
+            "name": "د. فائز ابراهيم الحمداني",
+            "specialization": "أختصاص أمراض المفاصل والروماتيزم والام الفقرات والشلل",
+            "workTime": " من السبت إلى الخميس 9:00 ص - 2:00 م و من 5:00 ص -7:00 م",
+            "contactNumber": "077024179961",
+            "thumbnail": "../../public/images/thum-faez.png",
+            "image": "../../public/images/faez.png"
+        },
+        {
+            "id": 2,
+            "name": "د. عمار زهير يحيى",
+            "specialization": "جراحة الجهاز الهضمي والأورام (عمليات الثدي والغدة الدرقية)",
+            "workTime": "من الأحد إلى الأربعاء 4:00 م - 8:00 م",
+            "contactNumber": "+1-555-987-6543",
+            "thumbnail": "../../public/images/thum-ammar.png",
+            "image": "../../public/images/ammar.png"
+        },
+        {
+            "id": 3,
+            "name": "د. ربى احمد محمود",
+            "specialization": "أختصاص الجراحة العامة والجراحة المنظارية",
+            "workTime": "من الأثنين إلى الأربعاء 4:00 م - 8:00 م",
+            "contactNumber": "07706886665",
+            "thumbnail": "../../public/images/thum-rubaa.png",
+            "image": "../../public/images/rubaa.png"
+        },
+        {
+            "id": 4,
+            "name": "د. احمد اياد محمد",
+            "specialization": "أختصاص امراض الباطنية والتنفسية والقلبية وامراض السكري",
+            "workTime": "من الثلاثاء إلى الخميس 4:00 م - 9:00 م",
+            "contactNumber": "07705547776",
+            "thumbnail": "../../public/images//thum-ahmed ayad.png",
+            "image": "../../public/images/ahmed ayad.png"
+        },
+        {
+            "id": 5,
+            "name": "د. علي محمد ايوب",
+            "specialization": "أختصاصــــي طــــب الأطفـــال",
+            "workTime": "من السبت الى الخميس من الساعة 4:00 م",
+            "contactNumber": "07736999716",
+            "thumbnail": "../../public/images/thum-ali.png",
+            "image": "../../public/images/ali.png"
+        },
+        {
+            "id": 6,
+            "name": "د. مؤيد العبدلي",
+            "specialization": "أختصاص الأمراض الجلدية والتناسلية والحساسية",
+            "workTime": "من السبت إلى الخميس 4:00 م ",
+            "contactNumber": "07508945152",
+            "thumbnail": "../../public/images/thum-moaeed al abdalu.png",
+            "image": "../../public/images/-moaeed al abdalu.png"
+        },
+        {
+            "id": 7,
+            "name": "د. مسلم ليث العبيدي",
+            "specialization": "أستشاري جراحـــات الأطفال وحديثي الولادة",
+            "workTime": "السبت، الأحد، الثلاثاء 4:00 م - 8:00 م",
+            "contactNumber": "07702657122",
+            "thumbnail": "../../public/images/thum-mosslem.png",
+            "image": "../../public/images/mosslem.png"
+        },
+        {
+            "id": 8,
+            "name": "د. نور الهدى عبد جرجيس",
+            "specialization": "أختصاص التصوير الطبي التشخيصي والسونار رباعي الابعاد والدوبلر الملون",
+            "workTime": "من السبت إلى الثلاثاء 2:30 م - 9:00 م",
+            "contactNumber": "07730993450 - 07510672276",
+            "thumbnail": "../../public/images/thum-nouralhuda.png",
+            "image": "../../public/images/nouralhuda.png"
+        },
+        {
+            "id": 9,
+            "name": "أحمد ميسر الصوفي",
+            "specialization": "أختصاص جراحة المفاصل والفقرات ،دبلوم عالي جراحة العظام والكسور عمليات الفقرات بالناظور",
+            "workTime": "يوم الخميس من كل اسبوعين 7:00 ص - 9:00 م",
+            "contactNumber": "07718989614",
+            "image": "https://via.placeholder.com/150?text=Dr.+Ava+Anderson"
+        },
+        {
+            "id": 10,
+            "name": "د. جاسم محمد طيب الحيالي",
+            "specialization": "أستشاري أمراض القلب والباطنية",
+            "workTime": " السبت، الأحد، الثلاثاء، الأربعاء من 11:00 ص - 1:00 م ، والأثنين والخميس من 4:00 م - 6:00 م",
+            "contactNumber": "07705547776",
+            "image": "https://via.placeholder.com/150?text=Dr.+James+Taylor"
+        },
+        {
+            "id": 11,
+            "name": "د. منى محمود سليم",
+            "specialization": "دبلوم عالي بالأشعة التشخيصية والفحص والتشخيص بالأمواج فوق الصوتية",
+            "workTime": "السبت، الأحد، الثلاثاء، الأربعاء، الخميس 4:00 م - 8:00 م",
+            "contactNumber": "07709109082",
+            "thumbnail": "../../public/images/thum-mona.png",
+            "image": "../../public/images/mona.png"
+        },
+        {
+            "id": 12,
+            "name": "د. نشوان عبدالخالق الحيالي",
+            "specialization": "أختصاص جراحة العظام والكسور وتبديل المفاصل والأصابات الرياضية والفقرات",
+            "workTime": "السبت، الأحد، الثلاثاء، الأربعاء 4:00 م - 8:00 م",
+            "contactNumber": "07710001403",
+            "image": "https://via.placeholder.com/150?text=Dr.+Ava+Anderson"
+        },
+        {
+            "id": 13,
+            "name": "د. اسماء عبدالقادر الدباغ",
+            "specialization": "أختصاص نسائية وتوليد وامراض العقم",
+            "workTime": "السبت، الأحد، الثلاثاء 4:00 م - 11:00 م",
+            "contactNumber": "07703022862",
+            "image": "https://via.placeholder.com/150?text=Dr.+Ava+Anderson"
+        },
+        {
+            "id": 14,
+            "name": "د. مزاحم قاسم الخياط",
+            "specialization": "أختصاص الجراحة العامة والجراحة المنظارية وجراحة الثدي والغدد والجهاز الهضمي",
+            "workTime": " الأحد، الأثنين ",
+            "contactNumber": "07703022862",
+            "image": "https://via.placeholder.com/150?text=Dr.+Ava+Anderson"
+        },
+        {
+            "id": 15,
+            "name": "د. نجلة يحيى البراوي",
+            "specialization": "أختصاصــية بالأمراض النسائية والتوليد",
+            "workTime": "  السبت، الأحد، الثلاثاء 2:00 م - 8:00 م",
+            "contactNumber": "07724179961",
+            "thumbnail": "../../public/images/thum-najla.png",
+            "image": "../../public/images/najla.png"
+        },
+        {
+            "id": 16,
+            "name": "د. عمر علاء العلاف  ",
+            "specialization": "بكالوريوس طـــب وجراحــة الفم والاسنـــان",
+            "workTime": "من السبت الى الخميس 5:00 م - 8:00 م",
+            "contactNumber": "07501857776 - 07705547776",
+            "thumbnail": "../../public/images/thum-omar.png",
+            "image": "../../public/images/omar.png"
+        },
+        {
+            "id": 17,
+            "name": "د. احمد خليل الجبوري",
+            "specialization": "أستشاري جراحة وتنظير المسالك البولية والقعم ",
+            "workTime": "من السبت الى الخميس 5:00 م - 8:00 م",
+            "contactNumber": "07501857776 - 07705547776",
+            "thumbnail": "../../public/images/thum-ahmed khalel.png",
+            "image": "../../public/images/ahmed khalel.png"
+        },
+        {
+            "id": 18,
+            "name": "د. ابراهيم عاصي السبعاوي",
+            "specialization": "C. A. B. M بورد اختصاص امراض باطنية ، F. I. B. M بورد اختصاص دقيق امراض الكلى",
+            "workTime": "من السبت الى الخميس من الساعة 3:00 م",
+            "contactNumber": " 07748264229 ",
+            "image": "https://via.placeholder.com/150?text=Dr.+Ava+Anderson"
+        },
+        {
+            "id": 19,
+            "name": "د. احمد مصطفى السيفو",
+            "specialization": "اختصاص جراحة الاطفال وحديثي الولادة، بورد عربي (دكتوراة) جراحة الاطفال",
+            "workTime": "من السبت الى الخميس من الساعة 4:00 م",
+            "contactNumber": " 07705547776-07501847776 ",
+            "image": "https://via.placeholder.com/150?text=Dr.+Ava+Anderson"
+        }
+    ],
+    "accordionHeader": {
+        "title": "الأسئلة الشائعة",
+        "description": "بعض الأسئلة الأكثر تكرارًا"
+    },
+    "homeAccordion": [
+        {
+            "id": 1,
+            "Panal": "panel1",
+            "Q": "ما هي أنواع الخدمات التي يقدمها المستشفى؟",
+            "A": "يقدم مستشفانا مجموعة واسعة من الخدمات بما في ذلك الرعاية الطارئة، الرعاية الداخلية والخارجية، التصوير التشخيصي، الإجراءات الجراحية، والخدمات المتخصصة مثل أمراض القلب، العظام، والأورام."
+        },
+        {
+            "id": 2,
+            "Panal": "panel2",
+            "Q": "ما هي ساعات زيارة المستشفى؟",
+            "A": "تكون ساعات الزيارة عادة من 9 صباحًا إلى 8 مساءً يوميًا. ومع ذلك، قد تختلف الساعات المحددة حسب القسم أو الوحدة. يرجى التحقق من مكتب الاستقبال في المستشفى للحصول على معلومات مفصلة."
+        },
+        {
+            "id": 3,
+            "Panal": "panel3",
+            "Q": "كيف يمكنني تحديد موعد مع أخصائي؟",
+            "A": "لتحديد موعد مع أخصائي، يمكنك الاتصال بمركز المواعيد على الرقم (123) 456-7890 أو زيارة موقعنا الإلكتروني واستخدام أداة جدولة المواعيد عبر الإنترنت. قد تحتاج إلى إحالة من طبيبك العام."
+        },
+        {
+            "id": 4,
+            "Panal": "panel4",
+            "Q": "ماذا يجب أن أحضر في زيارتي الأولى؟",
+            "A": "لزيارتك الأولى، يرجى إحضار بطاقة هوية سارية، بطاقة التأمين الخاصة بك، أي سجلات طبية ذات صلة، وقائمة بالأدوية الحالية. إذا كان لديك إحالة من طبيب آخر، يرجى إحضارها أيضًا."
+        },
+        {
+            "id": 5,
+            "Panal": "panel5",
+            "Q": "هل يحتوي المستشفى على صيدلية داخلية؟",
+            "A": "نعم، يحتوي مستشفانا على صيدلية داخلية تقدم الأدوية للمرضى. تعمل الصيدلية من الساعة 8 صباحًا حتى 6 مساءً في أيام الأسبوع ومن الساعة 9 صباحًا حتى 1 ظهرًا في عطلات نهاية الأسبوع."
+        }
+    ],
+    "contactUsHeader": {
+        "title": "نحن هنا لمساعدتك",
+        "description": "تحتاج إلى دعم أو لديك استفسارات؟ اتصل بنا في أي وقت."
+    },
+    "footer": {
+        "services": [
+            {
+                "name": "الجراحة الخارجية",
+                "details_link": "http://example.com/outpatient-surgery"
+            },
+            {
+                "name": "عيادة القلب",
+                "details_link": "http://example.com/cardiac-clinic"
+            },
+            {
+                "name": "عيادة العيون",
+                "details_link": "http://example.com/ophthalmology-clinic"
+            },
+            {
+                "name": "عيادة النساء والتوليد",
+                "details_link": "http://example.com/gynaecological-clinic"
+            },
+            {
+                "name": "إعادة التأهيل الخارجي",
+                "details_link": "http://example.com/outpatient-rehabilitation"
+            },
+            {
+                "name": "عيادة العيون",
+                "details_link": "http://example.com/ophthalmology-clinic"
+            }
+        ]
+    }
+}

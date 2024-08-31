@@ -1,0 +1,804 @@
+{
+    "HeaderData": [
+        {
+            "name": "Home",
+            "href": "/home"
+        },
+        {
+            "name": "Doctors",
+            "href": "/doctors"
+        },
+        {
+            "name": "Departments",
+            "href": "/departments"
+        },
+        {
+            "name": "Contact",
+            "href": "/contact"
+        },
+        {
+            "name": "About",
+            "href": "/about"
+        }
+    ],
+    "bannerText": {
+        "title": "Best Medical Clinic",
+        "subtitleColor": "Bringing Health",
+        "subtitle": "To Life For The Whole Family..."
+    },
+    "serviceHeader": {
+        "title": "Comprehensive Medical Services",
+        "description": "Expert Care  for Every Need"
+    },
+    "serviceCards": [
+        {
+            "title": "Medical Treatment",
+            "description": "Comprehensive treatments for a wide range of conditions, ensuring optimal care and recovery.",
+            "image": "../../public/images/medical record.png"
+        },
+        {
+            "title": "Emergency Help",
+            "description": "Immediate, life-saving care and rapid response for urgent medical situations, available 24/7.",
+            "image": "../../public/images/ambulance.png"
+        },
+        {
+            "title": "Qualified Doctors",
+            "description": "Expert doctors with extensive experience providing accurate diagnoses and personalized care.",
+            "image": "../../public/images/doctor.png"
+        },
+        {
+            "title": "Medical Professionals",
+            "description": "##########",
+            "image": "../../public/images/hospital.png"
+        }
+    ],
+    "departmentHeader": {
+        "title": "Our Departments",
+        "description": "Specialized Care Across a Range of Medical Disciplines"
+    },
+    "departmentGrid": {
+        "boxOne": {
+            "title": "Oparation",
+            "description": "Proced arrain manu produc rather conve quvat mantan this conven multscplinari testin motin was procedur aamng proced arrain manu produc rather conve quvat mantan this convenmultscplinari testiners motin was procedur arraming",
+            "image": "../../public/images/landing (1).jpg"
+        },
+        "boxTwo": {
+            "title": "pharmacy",
+            "description": "Cabor levera then andin the Qualit bwdh then covae thm Uabor evera then andin meqe Any value cordin",
+            "image": "../../public/images/pharmacy.jpg"
+        },
+        "boxThree": {
+            "title": "laboratory",
+            "description": "Cabor levera then andin the Qualit bwdh then covae thm Uabor evera then andin meqe Any value cordin"
+        },
+        "boxFour": {
+            "title": "laboratory",
+            "description": "Cabor levera then andin the Qualit bwdh then covae thm Uabor evera then andin meqe Any value cordin",
+            "image": "../../public/images/Intensivecare.jpg"
+        },
+        "boxFive": {
+            "title": "laboratory",
+            "description": "Cabor levera then andin the Qualit bwdh then covae thm Uabor evera then andin meqe Any value cordin",
+            "image": "../../public/images/Intensivecare.jpg"
+        },
+        "boxSix": {
+            "title": "laboratory",
+            "description": "Cabor levera then andin the Qualit bwdh then covae thm Uabor evera then andin meqe Any value cordin",
+            "image": "../../public/images/Op.jpg"
+        }
+    },
+    "departmentPage": [
+        {
+            "id": 1,
+            "title": "Operation Theaters",
+            "description": "The operating room contains six modern suites equipped with the latest devices, tools, and endoscopic surgical instruments, in addition to a recovery room. It is managed by a team of specialist doctors and supporting staff and operates 24 hours a day.",
+            "image": "../../public/images/Op.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"Fifth Floor",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "What should I expect during my surgery?",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "emergency",
+            "description": "The Emergency Department consists of eight beds and a distinguished nursing staff. It receives cases in the following specialties: gynecology, pediatrics, internal medicine, cardiology, kidney and urinary tract surgery, and general surgery. The department operates 24 hours a day.",
+            "image": "../../public/images/emergency (1).png",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"Ground Floor",
+            "images": [
+                "../../public/images/emergency (1).png",
+                "../../public/images/emergency (2).png",
+                "../../public/images/emergency (3).png",
+                "../../public/images/emergency (4).png",
+                "../../public/images/emergency (5).png",
+                "../../public/images/emergency (6).png"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "laboratory",
+            "description": "Facilities and processes dedicated to conducting experiments and testing, ensuring accurate results and adherence to scientific standards.",
+            "image": "../../public/images/laporatory (5).png",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"Basement Floor",
+            "images": [
+                "../../public/images/laporatory (1).png",
+                "../../public/images/laporatory (2).png",
+                "../../public/images/laporatory (3).png",
+                "../../public/images/laporatory (4).png",
+                "../../public/images/laporatory (5).png",
+                "../../public/images/laporatory (6).png"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "radiological department",
+            "description": "The Diagnostic Medical Imaging Department offers a comprehensive range of diagnostic services to ensure the delivery of the best healthcare.",
+            "devices": [
+                {
+                    "name": "CT Scanner",
+                    "details": "The CT scanner department uses the latest computed tomography imaging techniques to provide accurate, high-quality images of the body's internal organs. This device is used to diagnose a variety of medical conditions, including cancer, injuries, and internal disorders."
+                },
+                {
+                    "name": "X-ray",
+                    "details": "The X-ray department provides X-ray imaging services to diagnose medical conditions by delivering clear images of bones and internal tissues. This technique is widely used to detect fractures, infections, and any other abnormalities that may be present."
+                },
+                {
+                    "name": "Ultrasound",
+                    "details": "The ultrasound department uses ultrasonic waves to provide accurate imaging of internal organs and soft tissues. This technique is non-invasive and safe, and it is particularly useful for monitoring pregnancies, diagnosing heart conditions, and analyzing gastrointestinal issues."
+                },
+                {
+                    "name": "Mobile X-ray Unit",
+                    "details": "We have a mobile X-ray unit available to provide imaging services in various locations within the hospital or clinic. This device facilitates imaging for patients who are difficult to move to the X-ray department, thereby enhancing comfort and saving time."
+                }
+            ],
+            "image": "../../public/images/radiological (5).png",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"Basement Floor",
+            "images": [
+                "../../public/images/radiological (1).png",
+                "../../public/images/radiological (2).png",
+                "../../public/images/radiological (3).png",
+                "../../public/images/radiological (5).png",
+                "../../public/images/radiological (6).png",
+                "../../public/images/radiological (4).png"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Consultaion Clinics",
+            "description": "A range of specialized clinics is available, including: gynecology and obstetrics, general surgery with endoscopic techniques, dermatology and venereology, infertility, cosmetic and laser skin surgery, urological surgery and endoscopy, oral and dental medicine and surgery, pediatrics, rheumatology and spinal pain and paralysis, cardiology and internal medicine, general surgery, endoscopic surgery, breast and endocrine surgery, gastrointestinal surgery, and orthopedic and fracture surgery.",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"Basement, Ground and First Floor",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "ICU",
+            "description": "The Intensive Care Unit contains 5 beds equipped with the latest systems and devices. It is managed by a team of specialist doctors and distinguished medical and support staff, operating 24 hours a day.",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"Fourth Floor",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Normal delivery ",
+            "description": "The natural delivery room features two delivery rooms equipped with the latest delivery beds. It also includes an incubator equipped with state-of-the-art devices. The unit is overseen by a specialist in obstetrics and gynecology, supported by an exceptional nursing team and a licensed midwife, and operates 24 hours a day.",
+            "image": "../../public/images/pharmacy.jpg",
+            "time": true,
+            "timeText": "Fifth hours",
+            "floor":" Floor",
+            "images": [
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg",
+                "../../public/images/pharmacy.jpg"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Premature babies",
+            "description": "The Neonatal Unit consists of three incubators and one capsule, managed by a distinguished team of pediatricians and experienced nursing staff. It operates 24 hours a day.",
+            "image": "../../public/images/Premature (4).png",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"Second Floor",
+            "images": [
+                "../../public/images/Premature (5).png",
+                "../../public/images/Premature (1).png",
+                "../../public/images/Premature (2).png",
+                "../../public/images/Premature (6).png",
+                "../../public/images/Premature (4).png",
+                "../../public/images/Premature (3).png"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Pharmacy",
+            "description": "All types of medications and medical supplies are available and the service operates 24 hours a day.",
+            "image": "../../public/images/pharmacy (2).png",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"Ground Floor",
+            "images": [
+                "../../public/images/pharmacy (1).png",
+                "../../public/images/pharmacy (2).png",
+                "../../public/images/pharmacy (3).png",
+                "../../public/images/pharmacy (4).png",
+                "../../public/images/pharmacy (5).png",
+                "../../public/images/pharmacy (6).png"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Room",
+            "description": "Our patient rooms offer luxurious and comfortable hotel-like services, equipped with the latest beds and amenities to ensure patient comfort. The rooms provide a peaceful and comfortable environment with meticulous attention to detail, enhancing the stay experience",
+            "image": "../../public/images/vip-room (6).png",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"First, Second, Third and Fourth Floor",
+            "images": [
+                "../../public/images/vip-room (1).png",
+                "../../public/images/vip-room (2).png",
+                "../../public/images/vip-room (3).png",
+                "../../public/images/vip-room (4).png",
+                "../../public/images/vip-room (5).png",
+                "../../public/images/vip-room (6).png"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Restaurant",
+            "description": "A fully equipped dining hall is available for all staff and visitors, managed by a skilled chef.",
+            "image": "../../public/images/Restaurant (5).png",
+            "time": true,
+            "timeText": "24 hours",
+            "floor":"Sixth Floor",
+            "images": [
+                "../../public/images/Restaurant (1).png",
+                "../../public/images/Restaurant (2).png",
+                "../../public/images/Restaurant (3).png",
+                "../../public/images/Restaurant (4).png",
+                "../../public/images/Restaurant (5).png",
+                "../../public/images/Restaurant (6).png"
+            ],
+            "accordion": [
+                {
+                    "panal": "panal1",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal2",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal3",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                },
+                {
+                    "panal": "panal4",
+                    "Q": "Qustions",
+                    "A": "Anser"
+                }
+            ]
+        }
+    ],
+    "doctorsHeader": {
+        "title": "Meet Our",
+        "description": "Professional Doctors"
+    },
+    "DoctorsSection": [
+        {
+            "id": 1,
+            "name": "Dr. Faez Ibraheem Al-Hamdany",
+            "specialization": "Specialist in Joint Diseases, Rheumatism, Back Pain, and Paralysis",
+            "workTime": "Saturday to Thursday 9:00 AM - 2:00 PM and 5:00 PM - 7:00 PM",
+            "contactNumber": "077024179961",
+            "thumbnail": "../../public/images/thum-faez.png",
+            "image": "../../public/images/faez.png"
+        },
+        {
+            "id": 2,
+            "name": "Dr. Ammar Zuhair Yahya",
+            "specialization": "Gastrointestinal and Oncology Surgery (Breast and Thyroid Operations)",
+            "workTime": "Sunday to Wednesday 4:00 PM - 8:00 PM",
+            "contactNumber": "07706886665",
+            "thumbnail": "../../public/images/thum-ammar.png",
+            "image": "../../public/images/ammar.png"
+        },
+        {
+            "id": 3,
+            "name": "Dr. Ruba Ahmed Mahmoud",
+            "specialization": "General Surgery and Laparoscopic Surgery",
+            "workTime": "Monday to Wednesday 4:00 PM - 8:00 PM",
+            "contactNumber": "07706886665",
+            "thumbnail": "../../public/images/thum-rubaa.png",
+            "image": "../../public/images/rubaa.png"
+        },
+        {
+            "id": 4,
+            "name": "Dr. Ahmad Ayad Mohammed",
+            "specialization": "Internal Medicine, Respiratory and Cardiac Diseases, and Diabetes",
+            "workTime": "Tuesday to Thursday 4:00 PM - 9:00 PM",
+            "contactNumber": "07705547776",
+            "thumbnail": "../../public/images//thum-ahmed ayad.png",
+            "image": "../../public/images/ahmed ayad.png"
+        },
+        {
+            "id": 5,
+            "name": "Dr. Ali Mohammed Ayoub",
+            "specialization": "Pediatric Specialist",
+            "workTime": "Saturday to Thursday 4:00 PM",
+            "contactNumber": "07736999716",
+            "thumbnail": "../../public/images/thum-ali.png",
+            "image": "../../public/images/ali.png"
+        },
+        {
+            "id": 6,
+            "name": "Dr. Moayed Al-Abdali",
+            "specialization": "Dermatology, Venereology, and Allergies",
+            "workTime": "Saturday to Thursday 4:00 PM",
+            "contactNumber": "07508945152",
+            "thumbnail": "../../public/images/thum-moaeed al abdalu.png",
+            "image": "../../public/images/-moaeed al abdalu.png"
+        },
+        {
+            "id": 7,
+            "name": "Dr. Muslim Laith Al-Abidi",
+            "specialization": "Pediatric and Neonatal Surgery Consultant",
+            "workTime": "Saturday, Sunday, Tuesday 4:00 PM - 8:00 PM",
+            "contactNumber": "07702657122",
+            "thumbnail": "../../public/images/thum-mosslem.png",
+            "image": "../../public/images/mosslem.png"
+        },
+        {
+            "id": 8,
+            "name": "Dr. Nour Al-Huda Abdul Jurgis",
+            "specialization": "Diagnostic Medical Imaging and 4D Ultrasound and Color Doppler",
+            "workTime": "Saturday to Tuesday 2:30 PM - 9:00 PM",
+            "contactNumber": "07730993450 - 07510672276",
+            "thumbnail": "../../public/images/thum-nouralhuda.png",
+            "image": "../../public/images/nouralhuda.png"
+        },
+        {
+            "id": 9,
+            "name": "Ahmed Maysar Al-Soufi",
+            "specialization": "Joint and Spine Surgery, Advanced Diploma in Orthopedic Surgery and Endoscopic Spine Surgery",
+            "workTime": "Every other Thursday 7:00 AM - 9:00 PM",
+            "contactNumber": "07718989614",
+            "thumbnail": "../../public/images/",
+            "image": "https://via.placeholder.com/150?text=Dr.+Ava+Anderson"
+        },
+        {
+            "id": 10,
+            "name": "Dr. Jassim Mohammed Tayeb Al-Hayali",
+            "specialization": "Cardiology and Internal Medicine Consultant",
+            "workTime": "Saturday, Sunday, Tuesday, Wednesday 11:00 AM - 1:00 PM, and Monday and Thursday 4:00 PM - 6:00 PM",
+            "contactNumber": "07705547776",
+            "thumbnail": "../../public/images/",
+            "image": "https://via.placeholder.com/150?text=Dr.+James+Taylor"
+        },
+        {
+            "id": 11,
+            "name": "Dr. Mona Mahmoud Salim",
+            "specialization": "Advanced Diploma in Diagnostic Imaging and Ultrasound Examination",
+            "workTime": "Saturday, Sunday, Tuesday, Wednesday, Thursday 4:00 PM - 8:00 PM",
+            "contactNumber": "07709109082",
+            "thumbnail": "../../public/images/thum-mona.png",
+            "image": "../../public/images/mona.png"
+        },
+        {
+            "id": 12,
+            "name": "Dr. Nashwan Abdelkhaleq Al-Hayali",
+            "specialization": "Orthopedic Surgery, Fractures, Joint Replacement, Sports Injuries, and Spine",
+            "workTime": "Saturday, Sunday, Tuesday, Wednesday 4:00 PM - 8:00 PM",
+            "contactNumber": "07710001403",
+            "thumbnail": "../../public/images/",
+            "image": "https://via.placeholder.com/150?text=Dr.+Ava+Anderson"
+        },
+        {
+            "id": 13,
+            "name": "Dr. Asmaa Abdulqader Al-Dabbagh",
+            "specialization": "Gynecology, Obstetrics, and Infertility",
+            "workTime": "Saturday, Sunday, Tuesday 4:00 PM - 11:00 PM",
+            "contactNumber": "07703022862",
+            "thumbnail": "../../public/images/",
+            "image": "https://via.placeholder.com/150?text=Dr.+Ava+Anderson"
+        },
+        {
+            "id": 14,
+            "name": "Dr. Mazahim Qasim Al-Khayyat",
+            "specialization": "General Surgery, Laparoscopic Surgery, Breast Surgery, Endocrine Surgery, and Gastrointestinal Surgery",
+            "workTime": "Sunday, Monday",
+            "contactNumber": "07703022862",
+            "thumbnail": "../../public/images/thumbnail-mozahem.png",
+            "image": "../../public/images/mozahem.png"
+        },
+        {
+            "id": 15,
+            "name": "Dr. Najla Yahya Al-Barawi",
+            "specialization": "Gynecology and Obstetrics Specialist",
+            "workTime": "Saturday, Sunday, Tuesday 2:00 PM - 8:00 PM",
+            "contactNumber": "07724179961",
+            "thumbnail": "../../public/images/thum-najla.png",
+            "image": "../../public/images/najla.png"
+        },
+        {
+            "id": 16,
+            "name": "Dr. Omar Ala Al-Alaf",
+            "specialization": "Bachelor of Dentistry and Oral Surgery",
+            "workTime": "Saturday to Thursday from 5:00 PM - 8:00 PM",
+            "contactNumber": "07501857776 - 07705547776",
+            "thumbnail": "../../public/images/thum-omar.png",
+            "image": "../../public/images/omar.png"
+        },
+        {
+            "id": 17,
+            "name": "Dr. Ahmed Khalil Al-Jubouri",
+            "specialization": "Consultant in Urological Surgery and Endourology",
+            "workTime": "Saturday to Thursday from 4:00 PM - 8:00 PM",
+            "contactNumber": "07501857776 - 07705547776",
+            "thumbnail": "../../public/images/thum-ahmed khalel.png",
+            "image": "../../public/images/ahmed khalel.png"
+        },
+        {
+            "id": 18,
+            "name": "Dr. Ibrahim Aasi Al-Sabawi",
+            "specialization": "C. A. B. M Board Internal Medicine, F. I. B. M Board Subspecialty Nephrology",
+            "workTime": "Saturday to Thursday from 3:00 PM",
+            "contactNumber": "07748264229",
+            "thumbnail": "../../public/images/",
+            "image": "https://via.placeholder.com/150?text=Dr.+Ava+Anderson"
+        },
+        {
+            "id": 19,
+            "name": "Dr. Ahmed Mustafa Al-Safo",
+            "specialization": "Pediatric and Neonatal Surgery Specialist, Arab Board (Doctorate) in Pediatric Surgery",
+            "workTime": "Saturday to Thursday from 4:00 PM",
+            "contactNumber": "07705547776 - 07501847776",
+            "thumbnail": "../../public/images/",
+            "image": "https://via.placeholder.com/150?text=Dr.+Ava+Anderson"
+        }
+    ],
+    "accordionHeader": {
+        "title": "Frequently Asked Questions",
+        "description": "Some of the most frequently asked questions"
+    },
+    "homeAccordion": [
+        {
+            "id": 1,
+            "Panal": "panel1",
+            "Q": "What types of services does the hospital offer?",
+            "A": "Our hospital offers a wide range of services including emergency care, inpatient and outpatient care, diagnostic imaging, surgical procedures, and specialized services such as cardiology, orthopedics, and oncology."
+        },
+        {
+            "id": 2,
+            "Panal": "panel2",
+            "Q": "What are the hospital's visiting hours?",
+            "A": "Visiting hours are typically from 9 AM to 8 PM daily. However, specific hours may vary by department or unit. Please check with the hospital's front desk for detailed information."
+        },
+        {
+            "id": 3,
+            "Panal": "panel3",
+            "Q": "How can I make an appointment with a specialist?",
+            "A": "To make an appointment with a specialist, you can call our appointment center at (123) 456-7890 or visit our website and use the online appointment scheduling tool. You may need a referral from your primary care physician."
+        },
+        {
+            "id": 4,
+            "Panal": "panel4",
+            "Q": "What should I bring to my first visit?",
+            "A": "For your first visit, please bring a valid ID, your insurance card, any relevant medical records, and a list of current medications. If you have a referral from another doctor, please bring that as well."
+        },
+        {
+            "id": 5,
+            "Panal": "panel5",
+            "Q": "Does the hospital have a pharmacy on-site?",
+            "A": "Yes, our hospital has an on-site pharmacy that provides medications to patients. The pharmacy is open from 8 AM to 6 PM on weekdays and 9 AM to 1 PM on weekends."
+        }
+    ],
+    "contactUsHeader": {
+        "title": "We're Here to Help",
+        "description": "Need support or have inquiries? Contact us anytime."
+    },
+    "footer": {
+        "services": [
+            {
+                "name": "Operation Theaters",
+                "details_link": "http://example.com/outpatient-surgery"
+            },
+            {
+                "name": "Emergency",
+                "details_link": "http://example.com/cardiac-clinic"
+            },
+            {
+                "name": "Laboratory",
+                "details_link": "http://example.com/ophthalmology-clinic"
+            },
+            {
+                "name": "Radiological",
+                "details_link": "http://example.com/gynaecological-clinic"
+            },
+            {
+                "name": "Consultaion Clinics",
+                "details_link": "http://example.com/outpatient-rehabilitation"
+            },
+            {
+                "name": "ICU",
+                "details_link": "http://example.com/ophthalmology-clinic"
+            },
+            {
+                "name": "Normal Delivery",
+                "details_link": "http://example.com/ophthalmology-clinic"
+            },
+            {
+                "name": "Premature Babies",
+                "details_link": "http://example.com/ophthalmology-clinic"
+            },
+            {
+                "name": "Pharmacy",
+                "details_link": "http://example.com/ophthalmology-clinic"
+            },
+            {
+                "name": "Room",
+                "details_link": "http://example.com/ophthalmology-clinic"
+            },
+            {
+                "name": "Restaurant",
+                "details_link": "http://example.com/ophthalmology-clinic"
+            }
+        ]
+    }
+}
